@@ -3,6 +3,12 @@ TEVO TORNADO Marlin Firmware Version 1.1.9 (https://github.com/MarlinFirmware/Ma
 
 Warning : This firmware is usable, but have not been tested yet, see [releases](https://github.com/GGLinnk/TEVO-TORNADO-Marlin/releases).
 
+Update 01 : Firmware upload successfull :
+- Menu : OK
+- Navigation button : OK
+- SD Card : OK
+- No bug found for the moment
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
