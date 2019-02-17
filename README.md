@@ -1,13 +1,14 @@
 # TEVO-TORNADO-Marlin
 TEVO TORNADO Marlin Firmware Version 1.1.9 (https://github.com/MarlinFirmware/Marlin)
 
-Warning : This firmware is usable, but have not been tested yet, see [releases](https://github.com/GGLinnk/TEVO-TORNADO-Marlin/releases).
+## Disclamer
+Firmware partially tested, safe to use, BUT:
+Warning: When the print is finished, the extruder block will go to the full right of the axis and will hit the end over 2 mm.
+If you know how to avoid this, do not hesitate to contribute and sole this issue.
 
-Update 01 : Firmware upload successfull :
-- Menu : OK
-- Navigation button : OK
-- SD Card : OK
-- No bug found for the moment
+### Warning
+Be really cautious using this firmware, it has not been fully tested and can do some.... unexpected things.
+
 
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
